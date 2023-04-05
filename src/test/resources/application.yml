@@ -1,0 +1,12 @@
+spring:
+  redis:
+    host:
+    database:
+    password:
+
+rid:
+  redisKey: RID
+  startStamp: 1577808000000
+  workerIdBits: 5
+  sequenceBits: 7
+
